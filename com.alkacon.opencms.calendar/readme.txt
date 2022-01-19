@@ -5,7 +5,7 @@
 
                                     WARNING:
 
-                              USE AT YOUR OWN RISK
+                              - USE AT YOUR OWN RISK -
 
 The Alkacon OpenCms calendar module and these instructions are distributed
 in the hope that they will be useful, but WITHOUT ANY WARRANTY;
